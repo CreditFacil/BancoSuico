@@ -1,0 +1,13 @@
+C:\Projetos\BancoSuico\BancoSuico\bin\Debug\netcoreapp3.1\BancoSuico.exe
+C:\Projetos\BancoSuico\BancoSuico\bin\Debug\netcoreapp3.1\BancoSuico.deps.json
+C:\Projetos\BancoSuico\BancoSuico\bin\Debug\netcoreapp3.1\BancoSuico.runtimeconfig.json
+C:\Projetos\BancoSuico\BancoSuico\bin\Debug\netcoreapp3.1\BancoSuico.runtimeconfig.dev.json
+C:\Projetos\BancoSuico\BancoSuico\bin\Debug\netcoreapp3.1\BancoSuico.dll
+C:\Projetos\BancoSuico\BancoSuico\bin\Debug\netcoreapp3.1\BancoSuico.pdb
+C:\Projetos\BancoSuico\BancoSuico\obj\Debug\netcoreapp3.1\BancoSuico.AssemblyInfoInputs.cache
+C:\Projetos\BancoSuico\BancoSuico\obj\Debug\netcoreapp3.1\BancoSuico.AssemblyInfo.cs
+C:\Projetos\BancoSuico\BancoSuico\obj\Debug\netcoreapp3.1\BancoSuico.csproj.CoreCompileInputs.cache
+C:\Projetos\BancoSuico\BancoSuico\obj\Debug\netcoreapp3.1\BancoSuico.dll
+C:\Projetos\BancoSuico\BancoSuico\obj\Debug\netcoreapp3.1\BancoSuico.pdb
+C:\Projetos\BancoSuico\BancoSuico\obj\Debug\netcoreapp3.1\BancoSuico.genruntimeconfig.cache
+C:\Projetos\BancoSuico\BancoSuico\obj\Debug\netcoreapp3.1\BancoSuico.csprojAssemblyReference.cache
